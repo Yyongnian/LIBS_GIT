@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'one'
 
-  s.homepage         = 'https://github.com/Yyongnian/pod_test'
+  s.homepage         = 'https://github.com/Yyongnian/LIBS_GIT'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Yyongnian' => 'yangyongnian@58.com' }
-  s.source           = { :git => 'https://github.com/Yyongnian/pod_test.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Yyongnian/LIBS_GIT.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
